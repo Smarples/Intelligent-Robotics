@@ -1,0 +1,2 @@
+Used the Webots simulator to evolve an Epuck robot to recreate a mouses behaviour on the Elevated Plus Maze Experiment using C.
+This Epuck would follow the walls of the maze but not travel outside into the unwalled area and we were tasked to have the epuck explore the area in the shortest time after training.
